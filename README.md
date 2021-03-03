@@ -9,3 +9,6 @@ Here are some ideas to knowing me:
 - 💬 Ask me about modern PHP and DX
 - 📫 How to reach me: nahid.dns@gmail.com
 - ⚡ Fun fact: I still love PHP
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
