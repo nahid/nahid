@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**nahid/nahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to knowing me:
 
 - 🔭 I’m currently working on PHP 8
 - 🌱 I’m currently learning Swoole PHP
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about modern PHP and DX
 - 📫 How to reach me: nahid.dns@gmail.com
 - ⚡ Fun fact: I still love PHP
--->
