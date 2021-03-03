@@ -11,4 +11,7 @@ Here are some ideas to knowing me:
 - ⚡ Fun fact: I still love PHP
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
+<p align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
+</p>
+
