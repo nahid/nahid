@@ -3,12 +3,13 @@
 
 Here are some ideas to knowing me:
 
-- 🔭 I’m currently working on PHP 8
+- 🔭 I’m currently working on PHP 8.1 and Shopify App
 - 🌱 I’m currently learning Swoole PHP, Shopify App, Micro-service Arhcitechture
 - 👯 I’m looking to collaborate on Laravel Talk package
 - 💬 Ask me about modern PHP and DX
 - 📫 How to reach me: nahid.dns@gmail.com
-- ⚡ Fun fact: I still love PHP
+- ⚡  Fun fact: I love cooking
+- 🧰 Everyday Tools: Clipy, iTerm, ZSH, PHPStorm, Sublime Text, Bash Script
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
@@ -34,3 +35,9 @@ Here are some ideas to knowing me:
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Find me on
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidbinazhar/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/to.nahid)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://twitter.com/nahidbinazhar)
