@@ -5,7 +5,7 @@ Here are some ideas to know me:
 
 - 🔭 I’m currently working on PHP 8.3, AdNetwork and Shopify App
 - 🌱 I’m currently learning C# .Net, Swoole PHP, Micro-service architecture
-- 👯 I’m looking to collaborate on the Laravel Talk package
+- 👯 I’m looking to collaborate on the Laravel Talk package and WPDrill Framework
 - 💬 Ask me about modern PHP and DX
 - 📫 How to reach me: nahid.dns@gmail.com
 - ⚡  Fun fact: I love cooking
