@@ -19,6 +19,8 @@ Here are some ideas to knowing me:
 ### MyStack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![.Net](https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%23823085.svg?style=for-the-badge&logo=c#&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%232E78C7.svg?style=for-the-badge&logo=typescript&logoColor=white)
