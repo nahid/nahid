@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 
-Here are some ideas to knowing me:
+Here are some ideas to know me:
 
-- 🔭 I’m currently working on PHP 8.1 and Shopify App
-- 🌱 I’m currently learning Swoole PHP, Shopify App, Micro-service Arhcitechture
-- 👯 I’m looking to collaborate on Laravel Talk package
+- 🔭 I’m currently working on PHP 8.3, AdNetwork and Shopify App
+- 🌱 I’m currently learning C# .Net, Swoole PHP, Micro-service architecture
+- 👯 I’m looking to collaborate on the Laravel Talk package
 - 💬 Ask me about modern PHP and DX
 - 📫 How to reach me: nahid.dns@gmail.com
 - ⚡  Fun fact: I love cooking
-- 🧰 Everyday Tools: Clipy, iTerm, ZSH, PHPStorm, Sublime Text, Bash Script
+- 🧰 Everyday Tools: Docker, DBGate, Clipy, iTerm, ZSH, PHPStorm, Sublime Text, Bash Script
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
