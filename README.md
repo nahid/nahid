@@ -14,6 +14,8 @@ Here are some ideas to know me:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=nahid)
+
 
 ### MyStack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
