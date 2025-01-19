@@ -14,7 +14,6 @@ Here are some ideas to know me:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
 
-<a href="https://stardev.io/developers/nahid"><img alt="Check out nahid's profile on stardev.io" src="https://stardev.io/developers/nahid/badge/languages/country.svg" /></a>
 
 ### MyStack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
